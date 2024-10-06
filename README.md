@@ -1,1 +1,3 @@
-# Fizzi-3d-Animated-Page
+# Fizzi Website - Final code
+
+For more information go to the [documentation on Notion](https://dub.sh/fizzi)
